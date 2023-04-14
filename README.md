@@ -1,19 +1,13 @@
-### Hi there 👋
+I have a bug to document technical stuffs that I do, which can be found at my blog
 
-<!--
-**erenpasavural/erenpasavural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me:
+rahuldkjain rahuldkjain rahuldkjain rahuldkjain rahul_dk_jain
 
-Here are some ideas to get you started:
+📕 Latest dev.to posts @rahuldkjain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![<İkon ismi>](https://img.shields.io/badge/<Buton üzerinde bulunacak metin>-<Buton rengi>?style=for-the-badge&logo=<İkon ismş>&logoColor=<Logo rengi>)
+How I improved my GitHub profile?
+Awesome FrontendMasters course resources
+How to start and promote your open-source project?
+How to gain 1000+ stars on an open-source project quickly?
+Languages and Tools:
+html5 css3 javascript nodejs express vuejs react gatsby nextjs nuxtjs gridsome jest sass tailwind mongodb postgresql python xd
