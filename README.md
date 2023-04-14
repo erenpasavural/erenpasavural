@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![<İkon ismi>](https://img.shields.io/badge/<Buton üzerinde bulunacak metin>-<Buton rengi>?style=for-the-badge&logo=<İkon ismş>&logoColor=<Logo rengi>)
