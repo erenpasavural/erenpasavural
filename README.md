@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenpasavural&label=Profile%20views&color=0e75b6&style=flat" alt="erenpasavural" /> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin, Python**
+- I'm not working right now
+- I have been developing various applications in Java and Kotlin languages for about 2 years.
+- I'm looking for a job
 
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **erenpasavurall@gmail.com**
+- 💬 How to reach me **erenpasavurall@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
